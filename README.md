@@ -1,5 +1,5 @@
 # TimeSeries-ksqlDB
 
 These are the resources necessary to reproduce the analysis mentioned in the article 
-Real-Time Streaming in Apache Kafka
-Tackling  Time-Series events using pure ksqlDB
+
+https://rogerio-rizzio.medium.com/apache-kafka-and-time-series-7f1a9db47053
